@@ -1,0 +1,12 @@
+CMakeLists.txt
+Makefile
+hw4
+hw4.c
+hw4.o
+hw4log.txt
+hw4tst
+ls
+shell.c
+shell.h
+shell.o
+test.txt

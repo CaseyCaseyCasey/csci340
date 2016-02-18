@@ -1,0 +1,17 @@
+total 216
+-rw-------@ 1 Casey   5789 Feb 16  2015 shell.h
+-rw-------@ 1 Casey    416 Feb 16 15:32 Makefile
+-rw-r--r--  1 Casey    192 Feb 16 15:34 CMakeLists.txt
+-rwxr-xr-x  1 Casey  14144 Feb 16 15:36 hw4tst
+-rw-r--r--  1 Casey      0 Feb 16 21:50 hw4log.txt
+-rw-r-----  1 Casey    541 Feb 18 12:34 test.txt
+-rw-------  1 Casey   1866 Feb 18 12:45 hw4.c
+-rw-r--r--  1 Casey   4892 Feb 18 13:05 hw4.o
+-rw-r-----  1 Casey     94 Feb 18 13:06 ls
+-rw-r-----  1 Casey    634 Feb 18 13:07 test2.txt
+-rw-r-----  1 Casey      0 Feb 18 13:07 tkcon
+-rw-r-----  1 Casey    730 Feb 18 13:11 test3.txt
+-rw-------  1 Casey   9136 Feb 18 14:15 shell.c
+-rw-r--r--  1 Casey  17012 Feb 18 14:15 shell.o
+-rwxr-xr-x  1 Casey  16156 Feb 18 14:15 hw4
+-rw-r-----  1 Casey      0 Feb 18 14:16 test5.txt
